@@ -7,3 +7,7 @@ console.log(employeeID);
 let studentID="196-sec1";
 studentID='sec-1';
 console.log(studentID);
+//var 
+var collegeId="72har";
+collegeId="98ram";
+console.table([employeeID,studentID,collegeId])
