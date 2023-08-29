@@ -18,8 +18,11 @@ let nameId=5
 let teacherId=6
 console.log(nameId==teacherId);
 
-//undefined
+//undefined indicates the absence of a value
 let maheshDaale;
+console.log(typeof maheshDaale);
 
-//null
+//where null indicate the absence of an object
 let employeSalary=null
+console.log( typeof employeSalary);
+
