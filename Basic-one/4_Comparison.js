@@ -17,3 +17,12 @@ console.log(undefined!=b);//True
 //Strict equality check or triple check
 console.log("5"===a);//false
 console.log("r"==="r");//true
+
+/**
+ * Datatype Summery 
+ * There are Two Type of Datatypes
+ * 1)Primitive Datatypes
+ *  =>Number,String,boolean,null,Undefined,BingInt,Symbole
+ * 2)Non-Primitive Datatypes
+ *  =>array,object,Function
+ */
