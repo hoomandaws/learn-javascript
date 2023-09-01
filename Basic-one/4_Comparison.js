@@ -24,5 +24,5 @@ console.log("r"==="r");//true
  * 1)Primitive Datatypes
  *  =>Number,String,boolean,null,Undefined,BingInt,Symbole
  * 2)Non-Primitive Datatypes
- *  =>array,object,Function
+ *  =>Array,Object,Function
  */

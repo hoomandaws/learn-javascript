@@ -26,3 +26,7 @@ console.log(typeof maheshDaale);
 let employeSalary=null
 console.log( typeof employeSalary);
 
+//Symbol is unique
+let numSymbol=Symbol("123")
+let numSym=Symbol("123")
+console.log(numSymbol===numSym);//false
