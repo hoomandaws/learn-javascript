@@ -6,11 +6,11 @@ console.log(a>b);//true
 console.log(a>=b);//true
 console.log(a!=b);//true
 
-//null comparision
+//null comparision should be ignore 
 console.log(null==b);//false
 console.log(null>a);//false
 
-//undefined comparision
+//undefined comparision should be ignore
 console.log(undefined==a);//false
 console.log(undefined!=b);//True
 
