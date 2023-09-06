@@ -18,5 +18,6 @@ console.log(strTwo.toLowerCase());
 
 /**
  * There are lots of String of methods 
- * some are above and other you can go through javascript MDN site. 
+ * some are above and other you can go through javascript MDN site.
+ * like:- slice(startindex,endindex),trim,replace(search_value,replace_value),subscript
  */
